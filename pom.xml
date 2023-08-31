@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <url>http://107.23.109.129:8081/repository/srujan-releases/flm-releases/</url>
 		</repository>
   	</distributionManagement>
 	
