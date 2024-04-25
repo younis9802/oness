@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>8.6.0</version>
 	<name>Java Home myweb</name>
-	<url>http://maven.apache.org</url>http://16.16.203.140:8080/manager/html/
+	<url>http://maven.apache.org</url>http://16.16.203.140:8080/
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
